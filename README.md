@@ -22,5 +22,9 @@ This project calculates the Langevin rate constant (KL), which describes the col
 
 1. Clone the repo:
 
-git clone https://github.com/Vishishtata/project.git
+git clone git clone https://github.com/Vishishtata/project.git
 cd project
+
+2. Run the calculator
+    
+python langevins_const.py
